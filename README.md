@@ -1,4 +1,2 @@
 # testrepo
-Coursera 1
-This is a new addon
-This is a new addon.1
+#This is readme file, you have removed some text
